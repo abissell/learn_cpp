@@ -1,0 +1,1 @@
+add_executable(multiple_fn_defs main.cpp a.cpp)

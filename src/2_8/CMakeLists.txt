@@ -1,0 +1,1 @@
+add_executable(separate_source_file main.cpp add.cpp)

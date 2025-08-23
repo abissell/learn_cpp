@@ -1,0 +1,1 @@
+add_executable(forward_declarations forward_declarations.cpp)

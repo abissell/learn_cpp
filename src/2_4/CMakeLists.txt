@@ -1,1 +1,1 @@
-add_executable(intro_functions, intro_functions.cpp)
+add_executable(intro_functions intro_functions.cpp)
